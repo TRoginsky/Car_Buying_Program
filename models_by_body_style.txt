@@ -1,0 +1,10 @@
+No,Coupe,Mercedes,AMG_GT
+No,Coupe,Lamborghini,Aventador
+No,Coupe,Porsche,911_GT3_RS
+No,Sedan,Mercedes,S_500
+No,Sedan,Porsche,Panamera
+No,SUV,Mercedes,GLS
+No,SUV,Porsche,Cayenne
+No,SUV,Lamborghini,Urus
+Yes,Coupe,Lamborghini,Huracan
+Yes,SUV,Mercedes,G_Wagon

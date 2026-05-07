@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Car Locating Assistance Program (CLAP)
 
 
@@ -36,3 +37,7 @@ This program helps users identify an appropriate luxury vehicle based on:
 
 Thomas Roginsky
 
+=======
+# Car_Buying_Program
+A program to aid CEOs, CFOs, COOs, etc in buying a car
+>>>>>>> 7b57498e237a063a1880f09bb56dc18fd57181ec
