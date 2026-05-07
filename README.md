@@ -1,5 +1,3 @@
-
-
 \# Car Locating Assistance Program (CLAP)
 
 
@@ -37,6 +35,4 @@ This program helps users identify an appropriate luxury vehicle based on:
 \## Author
 
 Thomas Roginsky
-
-
 
